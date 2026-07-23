@@ -1,0 +1,9 @@
+{
+  "cleanUrls": true,
+  "redirects": [
+    { "source": "/anxiety-therapy-nj", "destination": "/therapy-for-women-nj", "permanent": true },
+    { "source": "/grief-therapy", "destination": "/therapy-for-women-nj#grief", "permanent": true },
+    { "source": "/young-adult-therapy", "destination": "/therapy-for-women-nj", "permanent": true },
+    { "source": "/parents-school-stress", "destination": "/teen-therapy", "permanent": true }
+  ]
+}
